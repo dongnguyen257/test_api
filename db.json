@@ -3,12 +3,6 @@
       "id": "1",
       "title": "Game Night",
       "year": "2018",
-      "genres": [
-          "Action",
-          "Comedy",
-          "Crime"
-      ],
-      "poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "11",
       "duration": "PT100M",
       "releaseDate": "2018-02-28",
@@ -27,12 +21,6 @@
       "id": "2",
       "title": "Area X: Annihilation",
       "year": "2018",
-      "genres": [
-          "Adventure",
-          "Drama",
-          "Fantasy"
-      ],
-      "poster": "MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SY500_CR0,0,320,500_AL_.jpg",
       "contentRating": "R",
       "duration": "",
       "releaseDate": "2018-02-23",
@@ -51,10 +39,6 @@
       "id": "3",
       "title": "Hannah",
       "year": "2017",
-      "genres": [
-          "Drama"
-      ],
-      "poster": "MV5BNWJmMWIxMjQtZTk0Mi00YTE0LTkyNzAtYzQxYjcwYjE4ZDk2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SY500_SX350_AL_.jpg",
       "contentRating": "",
       "duration": "PT95M",
       "releaseDate": "2018-01-24",
@@ -73,12 +57,6 @@
       "id": "4",
       "title": "The Lodgers",
       "year": "2017",
-      "genres": [
-          "Drama",
-          "Horror",
-          "Romance"
-      ],
-      "poster": "MV5BM2FhM2E1MTktMDYwZi00ODA1LWI0YTYtN2NjZjM3ODFjYmU5XkEyXkFqcGdeQXVyMjY1ODQ3NTA@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "R",
       "duration": "PT92M",
       "releaseDate": "2018-03-09",
@@ -97,12 +75,6 @@
       "id": "5",
       "title": "Beast of Burden",
       "year": "2018",
-      "genres": [
-          "Action",
-          "Crime",
-          "Drama"
-      ],
-      "poster": "MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY500_CR0,0,336,500_AL_.jpg",
       "contentRating": "R",
       "duration": "",
       "releaseDate": "2018-02",
@@ -121,11 +93,6 @@
       "id": "6",
       "title": "The Chamber",
       "year": "2016",
-      "genres": [
-          "Horror",
-          "Thriller"
-      ],
-      "poster": "MV5BNTVlODgwMjgtZGUzMy00ZTY1LWIyMDEtYTI2Y2JlYzVjZTNkXkEyXkFqcGdeQXVyNTg0MDM1MzY@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "",
       "duration": "PT88M",
       "releaseDate": "2017-03-10",
@@ -144,10 +111,6 @@
       "id": "7",
       "title": "Survivors Guide to Prison",
       "year": "2018",
-      "genres": [
-          "Documentary"
-      ],
-      "poster": "MV5BNzhmNmI5MDMtZDEyOC00ODkyLTkwODItODQzODAzY2QyZjVlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY500_CR0,0,357,500_AL_.jpg",
       "contentRating": "",
       "duration": "PT102M",
       "releaseDate": "2018-02-23",
@@ -166,11 +129,6 @@
       "id": "8",
       "title": "Red Sparrow",
       "year": "2018",
-      "genres": [
-          "Mystery",
-          "Thriller"
-      ],
-      "poster": "MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "R",
       "duration": "PT139M",
       "releaseDate": "2018-03-02",
@@ -189,12 +147,6 @@
       "id": "9",
       "title": "Death Wish",
       "year": "2018",
-      "genres": [
-          "Action",
-          "Crime",
-          "Drama"
-      ],
-      "poster": "MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SY400_SX270_AL_.jpg",
       "contentRating": "R",
       "duration": "PT108M",
       "releaseDate": "2018-04-13",
@@ -213,10 +165,6 @@
       "id": "10",
       "title": "Foxtrot",
       "year": "2017",
-      "genres": [
-          "Drama"
-      ],
-      "poster": "MV5BOGUyZTJhZWEtNGIwZi00YjUwLTljMGMtNjliMzM1NDMxYjJmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY500_CR0,0,353,500_AL_.jpg",
       "contentRating": "R",
       "duration": "PT108M",
       "releaseDate": "2017-09-21",
@@ -235,10 +183,6 @@
       "id": "11",
       "title": "They Remain",
       "year": "2018",
-      "genres": [
-          "Thriller"
-      ],
-      "poster": "MV5BMjI0NTEzMTk1OV5BMl5BanBnXkFtZTgwNTMwNDY3NDM@._V1_SY500_CR0,0,349,500_AL_.jpg",
       "contentRating": "",
       "duration": "",
       "releaseDate": "2018-01-28",
@@ -256,10 +200,6 @@
       "id": "12",
       "title": "Submission",
       "year": "2017",
-      "genres": [
-          "Drama"
-      ],
-      "poster": "MV5BMjQ4NDkwMzM4OF5BMl5BanBnXkFtZTgwNzE3MzI3NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "",
       "duration": "",
       "releaseDate": "2017-10-13",
@@ -278,12 +218,6 @@
       "id": "13",
       "title": "Souvenir",
       "year": "2016",
-      "genres": [
-          "Drama",
-          "Music",
-          "Romance"
-      ],
-      "poster": "MV5BZmJkZjVhNGUtOTg4MC00YzAwLTg4ZjEtZjAxYmVlNTlkOTgyXkEyXkFqcGdeQXVyNTQwMDA5NTg@._V1_SY500_CR0,0,333,500_AL_.jpg",
       "contentRating": "Btl",
       "duration": "PT90M",
       "releaseDate": "2017-05-19",
@@ -302,10 +236,6 @@
       "id": "14",
       "title": "Dance Academy: The Movie",
       "year": "2017",
-      "genres": [
-          "Drama"
-      ],
-      "poster": "MV5BYjg2MzMwYmYtNjkwMS00N2VmLWI2MDMtMDA2ZjZiMDBkZDk1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTg3ODAyOTY@._V1_SY500_SX400_AL_.jpg",
       "contentRating": "",
       "duration": "PT101M",
       "releaseDate": "2017-04-06",
@@ -324,12 +254,6 @@
       "id": "15",
       "title": "Ett veck i tiden",
       "year": "2018",
-      "genres": [
-          "Adventure",
-          "Family",
-          "Fantasy"
-      ],
-      "poster": "MV5BMjMxNjQ5MTI3MV5BMl5BanBnXkFtZTgwMjQ2MTAyNDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "PG",
       "duration": "",
       "releaseDate": "2018-04-06",
@@ -348,10 +272,6 @@
       "id": "16",
       "title": "The Strangers: Prey at Night",
       "year": "2018",
-      "genres": [
-          "Horror"
-      ],
-      "poster": "MV5BMTY1OTIwODgzMV5BMl5BanBnXkFtZTgwMzUyMDgzNDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "R",
       "duration": "",
       "releaseDate": "2018-03-09",
@@ -370,11 +290,6 @@
       "id": "17",
       "title": "The Hurricane Heist",
       "year": "2018",
-      "genres": [
-          "Action",
-          "Thriller"
-      ],
-      "poster": "MV5BMzg3Y2MyNjgtMzk4ZS00OTU3LWEwZmMtN2Y0NTdlZjU0NGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "PG-13",
       "duration": "",
       "releaseDate": "2018-03-23",
@@ -393,12 +308,6 @@
       "id": "18",
       "title": "Gringo",
       "year": "2018",
-      "genres": [
-          "Action",
-          "Comedy",
-          "Drama"
-      ],
-      "poster": "MV5BMjAyMTk2MTQ3Ml5BMl5BanBnXkFtZTgwNDQ2ODE0NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "R",
       "duration": "PT110M",
       "releaseDate": "2018-03-09",
@@ -417,11 +326,6 @@
       "id": "19",
       "title": "Thoroughbreds",
       "year": "2017",
-      "genres": [
-          "Drama",
-          "Thriller"
-      ],
-      "poster": "MV5BMTk4MzQ1NDY2OF5BMl5BanBnXkFtZTgwNjA4Nzc4MzI@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "",
       "duration": "PT92M",
       "releaseDate": "2018-03-09",
@@ -440,12 +344,6 @@
       "id": "20",
       "title": "En sista semester",
       "year": "2017",
-      "genres": [
-          "Adventure",
-          "Comedy",
-          "Drama"
-      ],
-      "poster": "MV5BMTg1NTg2MzcyNF5BMl5BanBnXkFtZTgwNjMwMDIzNDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
       "contentRating": "7",
       "duration": "PT112M",
       "releaseDate": "2018-03-16",
